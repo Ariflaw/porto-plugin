@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Porto Plugin
- * Plugin URI:        http://www.ariflaw.com
+ * Plugin URI:        https://github.com/Ariflaw/porto-plugin
  * Description:       Plugin for Porto Themes
  * Version:           0.1.0
  * Author:            Ariflaw
