@@ -16,7 +16,7 @@
  * Plugin Name:       Porto Plugin
  * Plugin URI:        https://github.com/Ariflaw/porto-plugin
  * Description:       Plugin for Porto Themes
- * Version:           0.1.0
+ * Version:           0.1.1
  * Author:            Ariflaw
  * Author URI:        http://www.ariflaw.com
  * License:           GPL-2.0+
